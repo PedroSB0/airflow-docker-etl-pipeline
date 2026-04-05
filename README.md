@@ -62,3 +62,6 @@ docker-compose up -d --build
 Acesse o Airflow em: http://localhost:8080 (admin/admin).
 
 Acesse o Hadoop em: http://localhost:9870.
+
+Demonstração do resultado final do Projeto
+[](img/projetofinal)
